@@ -10,7 +10,7 @@
 
 ### Step 1
 * Create an EC2
-* [Install Jenkins] (https://www.jenkins.io/doc/book/installing/)
+* [Install Jenkins](https://www.jenkins.io/doc/book/installing/)
 
 ## Technologies Used
 * AWS EC2
