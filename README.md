@@ -7,10 +7,8 @@
 ## Issues
 
 ## Steps
-/*:
-  1. This renders as
 
-     */
+### Step 3
 
 ## Technologies Used
 * AWS EC2
