@@ -1,22 +1,26 @@
-# Automate an Elastic Beanstalk Deployment
+<p align="center">
+<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
+</p>
+<h1 align="center">C4_deployment-3<h1> 
 
-## Purpose
-* The purpose of this project is to automate an Elastic Beanstalk Deployment.
-  
+Demonstrate your ability deploy a fully automated Elastic Beanstalk deployment.
 
-## Issues
+- Create a separate GitHub repository for this application 
 
-## Steps
+- Download the files from this repository and upload them to your newly created repository 
 
-### Step 1
-* Create an EC2
-* [Install Jenkins](https://www.jenkins.io/doc/book/installing/)
+- Be sure to follow the deployment instructions from this repository  
 
-## Technologies Used
-* AWS EC2
-* AWS Beanstalk
-* Jenkins
-* GitHub
+- Document your progress in a .md file in your repository. Also, document any issues you may run into and what you did to fix them.
 
+- Make sure your documentation includes these sections:
+  - Purpose
+  - Issues
+  - Steps
+  - System Diagram
+  - Optimization (How would make this deployment more efficient)
 
-## Optimization
+- Lastly, save your documentation and diagram into your repository. Submit your repository link to the LMS
+
+## Deployment instructions Link:
+-  Link to instructions: https://github.com/kura-labs-org/c4_deployment-3/blob/main/Deployment-instructions.md
