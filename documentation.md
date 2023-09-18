@@ -13,6 +13,10 @@
 * Install Jenkins
 * Install python3.10-venv
 * Install unzip
+* Access Jenkins on port:8080
+
+### 2.
+* Create a multibranch Pipeline
 
   
 ## Technologies Used
