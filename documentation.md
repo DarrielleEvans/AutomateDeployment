@@ -7,11 +7,14 @@
 
 ## Steps
 
-### Step 1
+### 1
 
 * Create an EC2
 * Install Jenkins
-* Install 
+* Install python3.10-venv
+* Install unzip
+
+  
 ## Technologies Used
 * AWS EC2
 * AWS Beanstalk
