@@ -7,7 +7,7 @@
 
 ## Steps
 
-### 1
+### 1.
 
 * Create an EC2
 * Install Jenkins
