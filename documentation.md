@@ -13,6 +13,7 @@
 * Install Jenkins
 * Install python3.10-venv
 * Install unzip
+* Install python-pip
 * Access Jenkins on port:8080
 
 ### 2.
