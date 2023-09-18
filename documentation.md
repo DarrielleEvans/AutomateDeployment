@@ -17,8 +17,10 @@
 
 ### 2.
 * Create a multibranch Pipeline
+* Integrate GitHub with Jenkins
+* Build the multipipeline branch pipeline. You should receive success.
+* <img width="749" alt="Screen Shot 2023-09-17 at 10 44 45 PM" src="https://github.com/DarrielleEvans/AutomateDeployment/assets/89504317/647efe71-0020-4202-a8e6-fcbfcc77c789">
 
-  
 ## Technologies Used
 * AWS EC2
 * AWS Beanstalk
