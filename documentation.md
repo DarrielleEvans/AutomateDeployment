@@ -4,6 +4,9 @@
 * The purpose of this project is to automate an Elastic Beanstalk Deployment.
 
 ## Issues
+* I received an error When adding the deploy stage to the Jenkins file.
+<img width="650" alt="Screen Shot 2023-09-18 at 9 37 45 PM" src="https://github.com/DarrielleEvans/AutomateDeployment/assets/89504317/06d9ae89-b195-4d67-8fe5-08fc671eb12a">
+I resolved the issue by running the eb init command on the pipeline that the application was being deployed on
 
 ## Steps
 
