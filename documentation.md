@@ -1,5 +1,7 @@
 # Automate an Elastic Beanstalk Deployment
 
+![Deployment3 drawio](https://github.com/DarrielleEvans/AutomateDeployment/assets/89504317/6eb74b0f-d8d3-4059-983d-06e0da9c4606)
+
 ## Purpose
 * The purpose of this project is to automate an Elastic Beanstalk Deployment.
 
