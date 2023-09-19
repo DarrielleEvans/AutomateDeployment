@@ -33,13 +33,15 @@
 * Add the following code to your jenkins file and observe the jenkins pipeline:
   stage ('Deploy') { steps { sh '/var/lib/jenkins/.local/bin/eb deploy' } }
   
-  <img width="790" alt="Screen Shot 2023-09-18 at 8 58 44 PM" src="https://github.com/DarrielleEvans/AutomateDeployment/assets/89504317/a2770c48-aa10-4003-968a-5a4aaf3c59de">
+<img width="790" alt="Screen Shot 2023-09-18 at 8 58 44 PM" src="https://github.com/DarrielleEvans/AutomateDeployment/assets/89504317/a2770c48-aa10-4003-968a-5a4aaf3c59de">
 
 ### 4.
 * Create a webhook from your main repo
 * payload url = HTTP://http://yourIP:8080/github-webhook/
-* Payload will build a 
-
+* Every push deploys an updated version of the application
+* post message is delivered payload url when a push event occurs
+  
+<img width="867" alt="Screen Shot 2023-09-18 at 9 26 12 PM" src="https://github.com/DarrielleEvans/AutomateDeployment/assets/89504317/6320bb21-dd82-47ba-a67c-bd2ac15cb4f2">
 
 ## Technologies Used
 * AWS EC2
